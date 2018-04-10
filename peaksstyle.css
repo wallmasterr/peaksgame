@@ -1,0 +1,30 @@
+@charset "utf-8";
+body
+{
+	background-color: #000000;
+	color: white;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+#wrapper
+	{
+		text-align: center;
+		width: auto;
+		background: ;
+		
+	}
+content
+{
+	//color:green;
+	width:700px;
+	
+}
+
+@media (max-width : 1564px )
+{
+	.mainbody 
+	{
+		width: auto;
+		textcolor: white;
+	}
+	
+}
